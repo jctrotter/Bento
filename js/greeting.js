@@ -6,7 +6,7 @@ const hour = today.getHours();
 const name = ' John Doe';
 
 // Here you can change your greetings
-const gree1 = 'Go to Sleep!  ';
+const gree1 = 'Sleepytime!  ';
 const gree2 = 'Good morning!  ';
 const gree3 = 'Good afternoon  ';
 const gree4 = 'Good evening,  ';
